@@ -1,4 +1,4 @@
-### Hi, I am Syafiq !!!
+# Hi, I am Syafiq !!!
 - 🔭 I’m currently working on my personal projects 
 - 🌱 I’m currently learning javascript so deep
 - 😄 I'm natively speak Indonesia dan fluenty speak english
