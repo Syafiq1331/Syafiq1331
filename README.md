@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Syafiq1331
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**abaykan/abaykan** is a ✨ _special_ ✨ repository because of its README.md (this file) appears on your GitHub profile.`
+Here are some ideas to get you started:
+🔭 I’m currently working on my personal projects gabut,
+🌱 I’m currently learning javascript so deep
+😄 I'm natively speak Indonesia dan fluenty speak english
+📫 You can reach me at my social media @syafiqrzf
+⚡ Fun fact about me is i'am INTJ XD 
 
 <p>
 <a href="https://github.com/dimasmds">
