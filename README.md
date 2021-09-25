@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my personal projects 
 - 🌱 I’m currently learning javascript so deep
 - 😄 I'm natively speak Indonesia dan fluenty speak english
-- 📫 You can reach me at my social media @syafiqrzf
+- 📫 You can reach me at my social media  [@syafiqrzf](https://www.instagram.com/syafiqrzf)
 - ⚡ Fun fact about me is i'am INTJ XD 
 
 <p>
