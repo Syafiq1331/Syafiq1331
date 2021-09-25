@@ -1,5 +1,5 @@
-**Hello World !!!** 
-- 🔭 I’m currently working on my personal projects gabut,
+***Hi, I am Syafiq !!!*** 
+- 🔭 I’m currently working on my personal projects 
 - 🌱 I’m currently learning javascript so deep
 - 😄 I'm natively speak Indonesia dan fluenty speak english
 - 📫 You can reach me at my social media @syafiqrzf
