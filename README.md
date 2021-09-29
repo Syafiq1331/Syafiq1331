@@ -1,10 +1,4 @@
 # Hi, I am Syafiq !!!
-<p>
-<a href="https://github.com/dimasmds"> 
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syafiq1331&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 - 🔭 I’m currently working on my personal projects 
 - 🌱 I’m currently learning javascript so deep
 - 😄 I'm natively speak Indonesia dan fluenty speak english
@@ -14,6 +8,7 @@
 <p>
 <a href="https://github.com/dimasmds">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syafiq1331&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syafiq1331&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
