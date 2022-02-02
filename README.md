@@ -1,6 +1,8 @@
-# Hi, Ahlan Wa Sahlan!!!
+# Hi, Ahlan Wa Sahlan!!
+Hello, my name is Rizky Fauzi but i like to call as Syafiq. I am student at Polytechnic IDN and I am fullstack web developer.
+
 - 🔭 I’m currently working on my personal projects 
-- 🌱 I’m currently learning javascript so deep
+- 🌱 I’m fall in love to React js and Laravel
 - 😄 I'm natively speak Indonesia dan fluenty speak english
 - 📫 You can reach me at my social media  [@syafiqrzf](https://www.instagram.com/syafiqrzf)
 - ⚡ Fun fact about me is i'am INTJ XD 
