@@ -4,13 +4,15 @@ Hello, my name is Rizky Fauzi but i like to call as Syafiq. I am student at Poly
 - 🔭 I’m currently working on my personal projects 
 - 🌱 I’m fall in love to React js and Laravel
 - 😄 I'm natively speak Indonesia dan fluenty speak english
-- 📫 You can reach me at my social media  [@syafiqrzf](https://www.instagram.com/syafiqrzf)
+- 📫 You can reach me at my instagram => [@syafiqrzf](https://www.instagram.com/syafiqrzf) & Telegram for deep talk => [@syafiq1331](https://t.me/Lost1331)
 - ⚡ Fun fact about me is i'am INTJ XD 
 
+## Here my stats
 <p>
 <a href="https://github.com/dimasmds">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syafiq1331&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syafiq1331&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syafiq1331&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
