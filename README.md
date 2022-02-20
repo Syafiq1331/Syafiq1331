@@ -1,4 +1,6 @@
 # Hi,Ahlan Wa Sahlan👋
+
+![My card name](https://cardivo.vercel.app/api?name=Syafiq%20Rizky%20Fauzi&description=A%20Tech%20Enthusiast&image=https://avatars.githubusercontent.com/u/45036724?v=4&backgroundColor=%23293B5F&instagram=asawgi&linkedin=Ahmad%20Saugi&github=zuramai&twitter=asawgi&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 Hello, my name is Rizky Fauzi but i like to call as Syafiq. Still 18 y.o.     
 I am student at Polytechnic IDN and Santri At Pondok Siber Bandung.    
 I am front end developer => android developer(2022), insyaAllah
