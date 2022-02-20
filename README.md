@@ -1,11 +1,15 @@
-# Hi, Ahlan Wa Sahlan!!
-Hello, my name is Rizky Fauzi but i like to call as Syafiq. I am student at Polytechnic IDN and I am fullstack web developer.
+# Hi,Ahlan Wa Sahlan👋
+Hello, my name is Rizky Fauzi but i like to call as Syafiq. Still 18 y.o.     
+I am student at Polytechnic IDN and Santri At Pondok Siber Bandung.    
+I am front end developer => android developer(2022), insyaAllah
 
-- 🔭 I’m currently working on my personal projects 
-- 🌱 I’m fall in love to React js and Laravel
+- 🤩 I’m currently working on my personal projects 
+- 😍  I’m fall in love to React js and Laravel
 - 😄 I'm natively speak Indonesia dan fluenty speak english
-- 📫 You can reach me at my instagram => [@syafiqrzf](https://www.instagram.com/syafiqrzf) & Telegram for deep talk => [@syafiq1331](https://t.me/Lost1331)
-- ⚡ Fun fact about me is i'am INTJ XD 
+- 😎 You can reach me at my    
+instagram => [@syafiqrzf](https://www.instagram.com/syafiqrzf)      
+Telegram for deep talk => [@syafiq1331](https://t.me/Lost1331)
+- 🤯 Fun fact about me that I am INTJ XD 
 
 ## Here my stats
 <p>
