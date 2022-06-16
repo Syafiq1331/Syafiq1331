@@ -6,10 +6,8 @@ I am front end developer => android developer(2022), insyaAllah
 - 🤩 I’m currently working on my personal projects 
 - 😍  I’m fall in love to React js and Laravel
 - 😄 I'm natively speak Indonesia dan fluenty speak english
-- 😎 You can reach me at my    
-instagram => [@syafiqrzf](https://www.instagram.com/syafiqrzf)      
-Telegram for deep talk => [@syafiq1331](https://t.me/Lost1331)
-- 🤯 Fun fact about me that I am INTJ XD 
+- 😎 You can reach me at my instagram [@syafiqrzf](https://www.instagram.com/syafiqrzf) & Telegram for deep talk [@syafiq1331](https://t.me/Lost1331)
+- 🤯 Fun fact about me that i love teaching and sharing to other people 
 
 ## Here tech i used
 <p>
