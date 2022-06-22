@@ -8,13 +8,11 @@ I am junior front end web developer, Alhamdulillah
 - 😄 I'm natively speak Indonesia & sundanese but fluenty speak english
 - 😎 You can reach me at my instagram [@syafiqrzf](https://www.instagram.com/syafiqrzf)
 - 🤯 Fun fact about me that i love teaching and sharing to other people 
-
-## Here tech i used
-<p>
-  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syafiq1331&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syafiq1331&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syafiq1331&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syafiq1331&" alt="Syafiq1331" />
 </p>
-
-## Here my stats
 <p>
-    <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syafiq1331&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
 </p>
