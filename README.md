@@ -13,5 +13,7 @@
 <div align="center">
   <img align="center" width="80%" alt="ImBIOS's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=syafiqrzf&theme=cobalt">
 </div>
+
 <br>
+
 [![@syafiqrzf's Holopin board](https://holopin.me/syafiqrzf)](https://holopin.io/@syafiqrzf)
