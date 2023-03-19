@@ -12,11 +12,11 @@ const biodata = {
       "name": "Polytechnic IDN Bogor",
       "yearIn": 2022,
       "yearOut": 2026,
-      "major": "Computer science"
+      "major": "Software Engineer"
     },
   ],
   "skills": [
-    "HTML", "CSS", "JavaScript", "PHP", "MySQL", "NodeJS", "ExpressJS", "ReactJS", "Laravel"
+    "HTML", "CSS", "JavaScript", "Typescript", "PHP", "MySQL", "NodeJS", "ExpressJS", "ReactJS", "Laravel"
   ]
 }
 ```
