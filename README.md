@@ -4,8 +4,8 @@
 ```javascript
 const biodata = {
   "name": "Syafiq Rizky Fauzi",
-  "age": 19,
-  "hobbies": ["Coding", "Reading", "Playing Games"],
+  "age": 20,
+  "hobbies": ["Coding", "Reading", "Playing Games", "Sleep"],
   "isMarried": false,
   "listSchool": [
     {
